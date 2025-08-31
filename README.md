@@ -54,7 +54,6 @@ Este projeto consiste em um **sistema embarcado de alarme de incêndio** utiliza
 ---
 
 ## 📚 Dependências
-- Biblioteca `Wire.h` para comunicação I2C  
 - Biblioteca do LCD (`LiquidCrystal_I2C.h`)  
 - Biblioteca para o sensor MQ-2 (opcional, pode ser código manual)
 
